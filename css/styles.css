@@ -1963,6 +1963,10 @@ pre code {
   border: 0;
 }
 
+.myform{
+  display: flex;
+}
+
 .form-control {
   display: block;
   width: 100%;
@@ -10258,7 +10262,7 @@ header.masthead .masthead-heading {
 }
 
 .stc{
-  
+
   font-size: 20px;
   padding: 30px 10px 10px 10px;
   background-color: #000000;
